@@ -1,0 +1,6 @@
+{
+    "scripts": {
+      "prepare-pages": "rm -rf docs && cp -r src/web docs"
+    }
+  }
+  
